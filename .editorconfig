@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CA1303: 리터럴을 지역화된 매개 변수로 전달하지 마십시오.
+dotnet_diagnostic.CA1303.severity = none
+
+# CA2227: 컬렉션 속성은 읽기 전용이어야 합니다.
+dotnet_diagnostic.CA2227.severity = none
